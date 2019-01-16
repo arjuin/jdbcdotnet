@@ -1,2 +1,2 @@
 # jdbcdotnet
-A dotnet client for [jdbcrpserver](https://github.com/arjuin/jdbcdotnet) project
+A dotnet client for [jdbcrpserver](https://github.com/arjuin/jdbcrpcserver) project
